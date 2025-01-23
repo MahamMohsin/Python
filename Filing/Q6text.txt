@@ -1,0 +1,30 @@
+Python is a general-purpose programming language that's used for a variety of tasks, including: 
+Web development: Building websites and server-side web applications
+Software development: Creating software and applications
+Data analysis: Analyzing data and performing data visualization
+Task automation: Automating tasks and processes
+System scripting: Writing scripts to control systems
+Mathematics: Performing mathematical calculations
+Python is popular because it's easy to learn, versatile, and has a simple syntax that emphasizes readability. It's also known as a "glue language" because it can integrate components written in other languages. 
+Features of Python
+Dynamic typing: Python uses dynamic typing, which means that variable types can change during program execution 
+Dynamic binding: Python uses dynamic binding, which means that method and variable names are bound during program execution 
+Modules and packages: Python supports modules and packages, which allows for modular programs and code reuse 
+Built-in data structures: Python has high-level built-in data structures 
+Rapid application development: Python's features make it attractive for rapid application development 
+History of Python 
+Guido Van Rossum started working on Python in the late 1980s as a hobby project
+Python was inspired by the ABC Programming Language, which Van Rossum helped create earlier in his career
+What is Python? Executive Summary
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data st...
+
+Python
+What is Python? | Teradata
+Python is used for server-side web development, software development, mathematics, and system scripting, and is popular for Rapid ...
+
+Teradata
+What Is Python Used For? A Beginner's Guide | Coursera
+29-Nov-2023 — Python is commonly used for developing websites and software, task automation, data analysis, and data visualisation. S...
+
+Coursera
+Show all
